@@ -3,8 +3,7 @@
 
 This class is an empty class
 
-Returns:nothing
-
 """
 class Square:
+    """Represents a square"""
     pass
