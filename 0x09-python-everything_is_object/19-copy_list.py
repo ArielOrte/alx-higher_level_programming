@@ -3,5 +3,11 @@
 
 
 def copy_list(l):
-    """Returns the copied list."""
+    """Creates a copy of the list.
+
+    Args:
+        l: List to be copied.
+    Returns:
+        The copy of the created list
+    """
         return list(l)
